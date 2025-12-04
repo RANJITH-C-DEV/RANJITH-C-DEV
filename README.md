@@ -19,5 +19,5 @@ I am a passionate developer currently building my foundation in Artificial Intel
 ---
 
 ### 📫 **Connect with Me**
-* [LinkedIn](https://www.linkedin.com/in/your-linkedin-id)
+* [LinkedIn]([https://www.linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/ranjith-cse?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 * [Email](mailto:ranjith0250c@gmail.com)
